@@ -1,1 +1,0 @@
-This is my readme file, which I am making because I think GitHub will not behave well if I don't have at least something in here. The purpose of this repo is to facilitate work that I am doing in the PSY 8960 S23 clas under RN, such as Assignment 1.
